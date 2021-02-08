@@ -2,7 +2,7 @@
   "short_name": "Frespo",
   "name": "Frespo",
   "start_url": "https://frespo.epizy.com/home",
-  "scope": "https://frespo.epizy.com/home",
+  "scope": "https://frespo.epizy.com/",
   "display": "standalone",
   "theme_color": "#e6e6ff",
   "background_color": "#e6e6ff",
