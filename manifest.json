@@ -1,0 +1,29 @@
+{
+  "short_name": "Frespo",
+  "name": "Frespo",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#e6e6ff",
+  "background_color": "#e6e6ff",
+  "description": "Frespo: the PWA",
+  "icons": [
+    {
+      "src": "icons/favicon192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/favicon512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "icons/favicon.svg",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
